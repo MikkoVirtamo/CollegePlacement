@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Advanced Search</string>
+    <string name="search_title">search</string>
+    <string name="search_hint">hint</string>
+    <string name="overflow_title">overflow</string>
+    <string name="title_activity_query">QueryActivity</string>
+    <string name="button">Button</string>
+
+
+    <string-array name="costpercentage_array">
+        <item>100</item>>
+        <item>90</item>>
+        <item>80</item>>
+        <item>70</item>>
+        <item>60</item>>
+        <item>50</item>>
+        <item>40</item>>
+        <item>30</item>>
+        <item>20</item>>
+        <item>10</item>>
+
+    </string-array>
+
+    <string-array name="state_array">
+        <item>All</item>>
+        <item>AL</item>
+        <item>AK</item>
+        <item>AZ</item>
+        <item>AR</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DE</item>
+        <item>DC</item>>
+        <item>FL</item>
+        <item>GA</item>
+        <item>HI</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>IA</item>>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>ME</item>
+        <item>MD</item>
+        <item>MA</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MS</item>
+        <item>MO</item>
+        <item>MT</item>
+        <item>NE</item>
+        <item>NV</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NY</item>
+        <item>NC</item>
+        <item>ND</item>
+        <item>OH</item>
+        <item>OK</item>
+        <item>OR</item>
+        <item>PA</item>
+        <item>RI</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+        <item>VT</item>
+        <item>VA</item>
+        <item>WA</item>
+        <item>WV</item>
+        <item>WI</item>
+        <item>WY</item>
+    </string-array>
+    >
+
+    <string name="title_activity_displaytest">displaytest</string>
+    <string name="title_activity_smslist">SMSListActivity</string>
+</resources>
